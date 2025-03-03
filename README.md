@@ -29,11 +29,11 @@ Displays model performance metrics including accuracy, precision, and recall.
 
 **Technologies Used:**
 
--Python
+- Python
 
--Streamlit (for web app UI)
+- Streamlit (for web app UI)
 
--Scikit-Learn (for machine learning models and evaluation metrics)
+- Scikit-Learn (for machine learning models and evaluation metrics)
 
--Pandas (for data processing)
--Numpy
+- Pandas (for data processing)
+- Numpy
